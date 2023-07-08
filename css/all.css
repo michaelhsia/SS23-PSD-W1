@@ -76,6 +76,10 @@ h3{
     text-decoration: none;
 }
 
+.mb-8 li a:hover{
+    color: #949494;
+}
+
 .mb-16 li{
     margin-bottom: 16px;
 }
